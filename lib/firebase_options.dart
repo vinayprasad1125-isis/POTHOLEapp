@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDAZQvRu1aznpFZCa9l4yNZR-9oYieLFZU',
-    appId: '1:278633099237:web:378e9ffc90672fed81490c',
+    apiKey: 'use yourapi here',
+    appId: 'use yourapi here',
     messagingSenderId: '278633099237',
     projectId: 'testapp1-a3e57',
     authDomain: 'testapp1-a3e57.firebaseapp.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDGtQYGJoEYsC4w36KSiayku0M7Xt-eY04',
-    appId: '1:278633099237:android:53b4a1c7ba9b0e4b81490c',
+    apiKey: 'use yourapi here4',
+    appId: 'use yourapi here',
     messagingSenderId: '278633099237',
     projectId: 'testapp1-a3e57',
     storageBucket: 'testapp1-a3e57.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAc17kdCL9fA9SibXZNydvkJFRDapnJWeg',
-    appId: '1:278633099237:ios:05971882a56cf41281490c',
+    apiKey: 'use yourapi here',
+    appId: 'use yourapi here',
     messagingSenderId: '278633099237',
     projectId: 'testapp1-a3e57',
     storageBucket: 'testapp1-a3e57.firebasestorage.app',
@@ -68,8 +68,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAc17kdCL9fA9SibXZNydvkJFRDapnJWeg',
-    appId: '1:278633099237:ios:05971882a56cf41281490c',
+    apiKey: 'use yourapi here',
+    appId: 'use yourapi here',
     messagingSenderId: '278633099237',
     projectId: 'testapp1-a3e57',
     storageBucket: 'testapp1-a3e57.firebasestorage.app',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDAZQvRu1aznpFZCa9l4yNZR-9oYieLFZU',
-    appId: '1:278633099237:web:f2680f48fa1c894381490c',
+    apiKey: 'use yourapi here',
+    appId: 'use yourapi here',
     messagingSenderId: '278633099237',
     projectId: 'testapp1-a3e57',
     authDomain: 'testapp1-a3e57.firebaseapp.com',
